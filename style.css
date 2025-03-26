@@ -151,12 +151,11 @@ body {
 /* Responsive */
 @media screen and (max-width: 650px) {
   .hero {
-    margin: var(--size-5);
+    margin: var(--size-4);
   }
 
   .card {
     grid-template-columns: 21.88rem;
-    grid-template-rows: 21rem;
   }
 
   .card-image img {
