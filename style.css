@@ -51,7 +51,7 @@ body {
   width: 100%;
 }
 
-.card-image img {
+.card-image picture img {
   width: 100%;
   height: 100%;
   border-top-left-radius: var(--size-0);
